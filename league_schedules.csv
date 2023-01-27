@@ -1,0 +1,49 @@
+,date,group,home_team,away_team,home_team_fifa_rank,away_team_fifa_rank,home_team_score,away_team_score,home_team_continent,away_team_continent,past_win,past_draw,past_lose,past_win_rate,past_draw_rate,past_lose_rate,phase,match,home_isAfrica,home_isAsia,home_isEurope,home_isNorthAmerica,home_isSouthAmerica,home_isOceania,away_isAfrica,away_isAsia,away_isEurope,away_isNorthAmerica,away_isSouthAmerica,away_isOceania
+0,21/11/2022,A,Qatar,Ecuador,50,44,,,Asia,South America,1,1,1,0.33,0.33,0.33,group matches,1,0,1,0,0,0,0,0,0,0,0,1,0
+1,21/11/2022,A,Senegal,Netherlands,18,8,,,Africa,Europe,0,0,0,0.33,0.33,0.33,group matches,2,1,0,0,0,0,0,0,0,1,0,0,0
+2,21/11/2022,B,England,IR Iran,5,20,,,Europe,Asia,0,0,0,0.33,0.33,0.33,group matches,3,0,0,1,0,0,0,0,1,0,0,0,0
+3,21/11/2022,B,USA,Wales,16,19,,,North America,Europe,1,1,0,0.5,0.5,0.0,group matches,4,0,0,0,1,0,0,0,0,1,0,0,0
+4,22/11/2022,D,France,Australia,4,38,,,Europe,Oceania,3,1,1,0.6,0.2,0.2,group matches,5,0,0,1,0,0,0,0,0,0,0,0,1
+5,22/11/2022,D,Denmark,Tunisia,10,30,,,Europe,Africa,1,0,0,1.0,0.0,0.0,group matches,6,0,0,1,0,0,0,1,0,0,0,0,0
+6,22/11/2022,C,Mexico,Poland,13,26,,,North America,Europe,1,3,0,0.25,0.75,0.0,group matches,7,0,0,0,1,0,0,0,0,1,0,0,0
+7,22/11/2022,C,Argentina,Saudi Arabia,3,51,,,South America,Asia,0,1,0,0.0,1.0,0.0,group matches,8,0,0,0,0,1,0,0,1,0,0,0,0
+8,23/11/2022,F,Belgium,Canada,2,41,,,Europe,North America,0,0,0,0.33,0.33,0.33,group matches,9,0,0,1,0,0,0,0,0,0,1,0,0
+9,23/11/2022,E,Spain,Costa Rica,7,31,,,Europe,North America,2,1,0,0.67,0.33,0.0,group matches,10,0,0,1,0,0,0,0,0,0,1,0,0
+10,23/11/2022,E,Germany,Japan,11,24,,,Europe,Asia,1,1,0,0.5,0.5,0.0,group matches,11,0,0,1,0,0,0,0,1,0,0,0,0
+11,23/11/2022,F,Morocco,Croatia,22,12,,,Africa,Europe,0,0,1,0.0,0.0,1.0,group matches,12,1,0,0,0,0,0,0,0,1,0,0,0
+12,24/11/2022,G,Switzerland,Cameroon,15,43,,,Europe,Africa,0,0,0,0.33,0.33,0.33,group matches,13,0,0,1,0,0,0,1,0,0,0,0,0
+13,24/11/2022,H,Uruguay,Korea Republic,14,28,,,South America,Asia,5,0,1,0.83,0.0,0.17,group matches,14,0,0,0,0,1,0,0,1,0,0,0,0
+14,24/11/2022,H,Portugal,Ghana,9,61,,,Europe,Africa,1,0,0,1.0,0.0,0.0,group matches,15,0,0,1,0,0,0,1,0,0,0,0,0
+15,24/11/2022,G,Brazil,Serbia,1,21,,,South America,Europe,2,0,0,1.0,0.0,0.0,group matches,16,0,0,0,0,1,0,0,0,1,0,0,0
+16,25/11/2022,B,Wales,IR Iran,19,20,,,Europe,Asia,0,0,0,0.33,0.33,0.33,group matches,17,0,0,1,0,0,0,0,1,0,0,0,0
+17,25/11/2022,A,Qatar,Senegal,50,18,,,Asia,Africa,0,0,0,0.33,0.33,0.33,group matches,18,0,1,0,0,0,0,1,0,0,0,0,0
+18,25/11/2022,A,Netherlands,Ecuador,8,44,,,Europe,South America,1,1,0,0.5,0.5,0.0,group matches,19,0,0,1,0,0,0,0,0,0,0,1,0
+19,25/11/2022,B,England,USA,5,16,,,Europe,North America,4,1,0,0.8,0.2,0.0,group matches,20,0,0,1,0,0,0,0,0,0,1,0,0
+20,26/11/2022,D,Tunisia,Australia,30,38,,,Africa,Oceania,1,0,0,1.0,0.0,0.0,group matches,21,1,0,0,0,0,0,0,0,0,0,0,1
+21,26/11/2022,C,Poland,Saudi Arabia,26,51,,,Europe,Asia,4,0,0,1.0,0.0,0.0,group matches,22,0,0,1,0,0,0,0,1,0,0,0,0
+22,26/11/2022,D,France,Denmark,4,10,,,Europe,Europe,6,1,3,0.6,0.1,0.3,group matches,23,0,0,1,0,0,0,0,0,1,0,0,0
+23,26/11/2022,C,Argentina,Mexico,3,13,,,South America,North America,11,3,1,0.73,0.2,0.07,group matches,24,0,0,0,0,1,0,0,0,0,1,0,0
+24,27/11/2022,E,Japan,Costa Rica,24,31,,,Asia,North America,3,1,0,0.75,0.25,0.0,group matches,25,0,1,0,0,0,0,0,0,0,1,0,0
+25,27/11/2022,F,Belgium,Morocco,2,22,,,Europe,Africa,2,0,1,0.67,0.0,0.33,group matches,26,0,0,1,0,0,0,1,0,0,0,0,0
+26,27/11/2022,F,Croatia,Canada,12,41,,,Europe,North America,0,0,0,0.33,0.33,0.33,group matches,27,0,0,1,0,0,0,0,0,0,1,0,0
+27,27/11/2022,E,Spain,Germany,7,11,,,Europe,Europe,4,4,2,0.4,0.4,0.2,group matches,28,0,0,1,0,0,0,0,0,1,0,0,0
+28,28/11/2022,G,Cameroon,Serbia,43,21,,,Africa,Europe,0,0,1,0.0,0.0,1.0,group matches,29,1,0,0,0,0,0,0,0,1,0,0,0
+29,28/11/2022,H,Korea Republic,Ghana,28,61,,,Asia,Africa,2,0,3,0.4,0.0,0.6,group matches,30,0,1,0,0,0,0,1,0,0,0,0,0
+30,28/11/2022,G,Brazil,Switzerland,1,15,,,South America,Europe,1,1,1,0.33,0.33,0.33,group matches,31,0,0,0,0,1,0,0,0,1,0,0,0
+31,28/11/2022,H,Portugal,Uruguay,9,14,,,Europe,South America,0,0,1,0.0,0.0,1.0,group matches,32,0,0,1,0,0,0,0,0,0,0,1,0
+32,29/11/2022,B,Wales,England,19,5,,,Europe,Europe,0,0,6,0.0,0.0,1.0,group matches,33,0,0,1,0,0,0,0,0,1,0,0,0
+33,29/11/2022,B,IR Iran,USA,20,16,,,Asia,North America,1,1,0,0.5,0.5,0.0,group matches,34,0,1,0,0,0,0,0,0,0,1,0,0
+34,29/11/2022,A,Ecuador,Senegal,44,18,,,South America,Europe,0,0,2,0.0,0.0,1.0,group matches,35,0,0,0,0,1,0,0,0,1,0,0,0
+35,29/11/2022,A,Netherlands,Qatar,8,50,,,Europe,Asia,0,0,0,0.33,0.33,0.33,group matches,36,0,0,1,0,0,0,0,1,0,0,0,0
+36,30/11/2022,D,Australia,Denmark,38,10,,,Oceania,Europe,1,1,2,0.25,0.25,0.5,group matches,37,0,0,0,0,0,1,0,0,1,0,0,0
+37,30/11/2022,D,Tunisia,France,30,4,,,Africa,Europe,0,2,1,0.0,0.67,0.33,group matches,38,1,0,0,0,0,0,0,0,1,0,0,0
+38,30/11/2022,C,Poland,Argentina,26,3,,,Europe,South America,1,0,0,1.0,0.0,0.0,group matches,39,0,0,1,0,0,0,0,0,0,0,1,0
+39,30/11/2022,C,Saudi Arabia,Mexico,51,13,,,Asia,North America,0,1,4,0.0,0.2,0.8,group matches,40,0,1,0,0,0,0,0,0,0,1,0,0
+40,01/12/2022,F,Croatia,Belgium,12,2,,,Europe,Europe,3,2,3,0.38,0.25,0.38,group matches,41,0,0,1,0,0,0,0,0,1,0,0,0
+41,01/12/2022,F,Canada,Morocco,41,22,,,North America,Africa,0,1,1,0.0,0.5,0.5,group matches,42,0,0,0,1,0,0,1,0,0,0,0,0
+42,01/12/2022,E,Japan,Spain,24,7,,,Asia,Europe,0,0,1,0.0,0.0,1.0,group matches,43,0,1,0,0,0,0,0,0,1,0,0,0
+43,01/12/2022,E,Costa Rica,Germany,31,11,,,North America,Europe,0,0,1,0.0,0.0,1.0,group matches,44,0,0,0,1,0,0,0,0,1,0,0,0
+44,02/12/2022,H,Ghana,Uruguay,61,14,,,Africa,South America,0,0,1,0.0,0.0,1.0,group matches,45,1,0,0,0,0,0,0,0,0,0,1,0
+45,02/12/2022,H,Korea Republic,Portugal,28,9,,,Asia,Europe,1,0,0,1.0,0.0,0.0,group matches,46,0,1,0,0,0,0,0,0,1,0,0,0
+46,02/12/2022,G,Serbia,Switzerland,21,15,,,Europe,Europe,0,0,1,0.0,0.0,1.0,group matches,47,0,0,1,0,0,0,0,0,1,0,0,0
+47,02/12/2022,G,Cameroon,Brazil,43,1,,,Africa,South America,1,0,5,0.17,0.0,0.83,group matches,48,1,0,0,0,0,0,0,0,0,0,1,0
